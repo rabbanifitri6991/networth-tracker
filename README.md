@@ -190,6 +190,10 @@ networth-tracker/
 - [ ] CSV / Excel export
 - [ ] Email reminders for monthly updates
 - [ ] Mobile-responsive improvements
+- [ ] future improvements for privacy
+        - Encrypt data before storing — store values as encrypted text so even you can't read the numbers without the user's key. Very secure but complex to build.
+        - Restrict admin access — set internal rules that developers can't query user data without approval.
+        - Write a clear Privacy Policy — at minimum, tell users honestly what you can see.
 
 ---
 
